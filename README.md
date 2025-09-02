@@ -14,7 +14,6 @@ I specialize in creating **responsive, pixel-perfect interfaces** and converting
 
 - ✅ 50+ completed projects  
 - ✅ 10+ satisfied clients  
-- ✅ 800+ hours on Upwork  
 - ✅ Strong problem-solving skills, able to meet tough deadlines  
 
 I love taking on **challenging projects** that help me grow as a developer while delivering real value to clients.  
