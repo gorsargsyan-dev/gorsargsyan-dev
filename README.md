@@ -41,12 +41,7 @@ I love taking on **challenging projects** that help me grow as a developer while
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  
 
----
 
-## 📊 GitHub Stats  
-
-![Gor's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
 
 ---
 
@@ -54,7 +49,3 @@ I love taking on **challenging projects** that help me grow as a developer while
  
 
 ---
-
-✨ *Always open to exciting projects and new challenges. Available 24/7 for collaboration!*  
-
--->
